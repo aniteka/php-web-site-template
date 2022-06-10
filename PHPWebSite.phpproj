@@ -1,0 +1,12 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>dcc9769a-166c-44d6-8542-6db2ea73bbac</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.1</RuntimeVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="js\" />
+  </ItemGroup>
+</Project>
